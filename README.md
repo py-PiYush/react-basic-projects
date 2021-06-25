@@ -1,6 +1,6 @@
 ## React Basic Projects
 
-Projects done under <a href = 'https://github.com/john-smilga'>John Smilga</a>'s React Tutorial
+Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'>John Smilga</a>'s React Tutorial
 
 #### Tutorial Video
 
