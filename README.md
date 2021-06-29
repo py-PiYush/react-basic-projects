@@ -11,3 +11,8 @@ Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'
 #### useState
 
 1. Birthday Reminder
+
+#### useEffect and Conditional Rendering
+
+2. Tours
+3. Reviews
