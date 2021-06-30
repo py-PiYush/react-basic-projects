@@ -18,3 +18,5 @@ Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'
 3. Reviews
 4. Questions
 5. Menu
+6. Tabs
+7. Slider
