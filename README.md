@@ -20,3 +20,7 @@ Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'
 5. Menu
 6. Tabs
 7. Slider
+
+#### Forms
+
+8. Lorem Ipsum Generator
