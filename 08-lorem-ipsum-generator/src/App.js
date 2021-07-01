@@ -18,7 +18,7 @@ function App() {
   };
   return (
     <section className="section-center">
-      <h3>tired of boring loren ipsum?</h3>
+      <h3>tired of boring lorem ipsum?</h3>
       <form className="lorem-form" onSubmit={handleSubmit} min={0} max={8}>
         <label htmlFor="amount">paragraphs:</label>
         <input
