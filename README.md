@@ -25,3 +25,8 @@ Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'
 
 8. Lorem Ipsum Generator
 9. Color Generator
+10. Grocery Bud
+
+### useRef
+
+11. NavBar
