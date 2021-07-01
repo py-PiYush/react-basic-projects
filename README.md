@@ -24,3 +24,4 @@ Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'
 #### Forms
 
 8. Lorem Ipsum Generator
+9. Color Generator
