@@ -35,3 +35,7 @@ Projects done under <a href = 'https://github.com/john-smilga' target = '_blank'
 
 12. Modal And Sidebar
 13. Stripe Submenus
+
+#### useReducer and useContext
+
+14. Cart
